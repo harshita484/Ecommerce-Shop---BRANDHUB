@@ -1,0 +1,26 @@
+{
+  "kind": "identitytoolkit#GetAccountInfoResponse",
+  "users": [
+    {
+      "localId": "PWSByPC3XCO9YQS6alOpF9nUOZg1",
+      "email": "harshitaagarwal484@gmail.com",
+      "displayName": "Harshita Agarwal",
+      "passwordHash": "UkVEQUNURUQ=",
+      "emailVerified": false,
+      "passwordUpdatedAt": 1611512365844,
+      "providerUserInfo": [
+        {
+          "providerId": "password",
+          "displayName": "Harshita Agarwal",
+          "federatedId": "harshitaagarwal484@gmail.com",
+          "email": "harshitaagarwal484@gmail.com",
+          "rawId": "harshitaagarwal484@gmail.com"
+        }
+      ],
+      "validSince": "1611512365",
+      "lastLoginAt": "1647271073656",
+      "createdAt": "1611512365844",
+      "lastRefreshAt": "2022-03-15T05:55:27.159Z"
+    }
+  ]
+}
